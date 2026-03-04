@@ -1,0 +1,9 @@
+/* TEAM */
+Chef: Midplanet Ventures
+Contact: contact@midplanetventures.org
+From: Nairobi, Kenya
+
+/* SITE */
+Last update: 2026/03/04
+Standards: HTML5, CSS3
+Software: GitHub Pages
